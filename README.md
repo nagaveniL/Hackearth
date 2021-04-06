@@ -1,2 +1,11 @@
 # Hackearth
-#This respository is the collection of solutions for Hackearth.
+This respository contains the solutions for Hackerearth.
+
+I will be posting my solutions here for Domains, Contests and Events in Hackerearth.
+
+My hackerearth solutions : http://www.hackerearth.com/@nagaveniyahoo.in
+
+Current solutions include:
+    * Algorithms
+    * Datastructures
+    * Basic programming
