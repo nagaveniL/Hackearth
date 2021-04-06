@@ -9,3 +9,5 @@ Current solutions include:
     * Algorithms
     * Datastructures
     * Basic programming
+
+All these solutions are available in C# programming language.
